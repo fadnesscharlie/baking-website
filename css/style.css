@@ -1,0 +1,38 @@
+
+nav a {
+    text-decoration: none;
+    background-color: rgb(90, 31, 31);
+    color: white;
+    margin: 2px;
+    padding: 20px;
+    opacity: .4;
+} 
+
+footer a {
+    text-decoration: none;
+    float: right;
+}
+body {
+    background: rgb(233, 227, 227);
+    font-family : 'Libre Baskerville', sans-serif;
+    margin: 25px;
+}
+#media {
+    text-align: right;
+
+
+}
+aside {
+    text-align: right;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    box-align: center;
+}
+

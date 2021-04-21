@@ -1,0 +1,49 @@
+
+
+body {
+    background: rgb(240, 205, 205);
+    font-family : Palatino, URW Palladio L, serif;
+    font-size: 1.5em;
+    margin: auto;
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+    border-top: 20px solid grey;
+    border-bottom: 20px solid grey;
+    
+    padding: .5%;
+    width: 960px;
+}
+
+/* Spacing below Nav */
+.bottom-spacing {
+    padding-bottom: 4%;
+    font-size: 2em;   
+}
+
+/* Top Nav */
+.nav {
+    color:teal;
+    margin-right: 1%;
+    text-decoration: none;
+}
+
+/* Bottom Nav */
+.nav2 {
+    margin-right: 10%;
+    text-decoration: none;
+}
+
+/* Main Image for the cake */
+#cake img {
+    width: 100%;
+    /* padding: 10px; */
+    padding-top: 10px;
+}
+
+/* Cake Description */
+#cake {
+    border: 2px solid black;
+    padding: 15px;
+    padding-bottom: 7%;
+    
+}
